@@ -6,20 +6,20 @@ I started creating them because I got tired of doing repetitve tasks, and always
 The scripts are freely available under the MIT License, but they come with no warranty or guarantee. Use them at your own risk.
 
 ## Installation 
-- You can place them in the Scripts folder of your Photoshop App and open it. The other way is to install tpicrs for Photoshop a dockable panel to trigger scripts [ https://adobe.com/go/cc_plugins_discover_plugin?pluginId=6ebbf226&workflow=share ]
+- You can place them in the Scripts folder of your Photoshop App and open it. The other way is to install **_tpicrs for Photoshop_** a dockable panel to trigger scripts [ https://adobe.com/go/cc_plugins_discover_plugin?pluginId=6ebbf226&workflow=share ]
 
 ## Scripts
 
-**-hc_WhatsTheCase-**
+**hc_WhatsTheCase -**
 This is a pop up window that changes the case for the selected text layer. It changes all the text to Title Case, Sentence case, UPPERCASE and lowercase.
 
-**-hc_DeleteHidden-**
+**hc_DeleteHidden -**
 This script deletes all 'hidden' layer. Ones that has the eyes disabled. Ideal for downsizing the PSD file.
 
-**-hc_RasterSmartObj-**
+**hc_RasterSmartObj -**
 This script rasterizes ALL smart objects in the current PSD document. (Can't confirm this but it worked for me when trying to downsize the PSD file.)
 
-**-hc_RenameByInput-**
+**hc_RenameByInput -**
 This script updates the text Layer Name to the source text. *Truncated to 10 alphabets. For tidying the layers ;)
 
 
