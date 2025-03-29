@@ -1,3 +1,5 @@
+//What's the case - v1.2 by howiechin ;)
+
 #target photoshop
 app.bringToFront();
 
